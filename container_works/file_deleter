@@ -1,0 +1,14 @@
+#!/bin/bash
+
+if [ -f "$1" ]; then
+   echo "$1 found"
+   rm -rf "$1"
+   ls -l
+   echo "'$1' successfully deleted!"
+   ls -l
+else
+   echo "'$1' not found!"
+   ls -l
+fi
+
+

@@ -1,0 +1,12 @@
+#! /bin/bash
+
+if [ -d "$1" ]; then
+	ls -la
+	echo "directory '$1' found! deleting ..."
+	rmdir "$1"
+	ls -la
+else
+	ls -la
+	echo "directory '$1' not found!"
+fi
+
