@@ -1,0 +1,16 @@
+demo_file2 found
+total 4964
+-rw-rw-rw-. 1 root root 5064833 Jul 13  2022 CGAL-demos-source-5.4.1-1.rhel9.x86_64.rpm
+-rw-rw-r--. 1 root root     103 Sep  2 15:29 demo_file
+-rwx------. 1 root root     122 Sep  2 15:48 file_creator
+-rwx------. 1 root root     168 Sep  2 16:17 file_deleter
+-rw-rw-rw-. 1 root root      17 Sep  2 19:19 my_out
+drwxrwxrwx. 3 root root      19 Sep  2 17:37 usr
+'demo_file2' successfully deleted!
+total 4964
+-rw-rw-rw-. 1 root root 5064833 Jul 13  2022 CGAL-demos-source-5.4.1-1.rhel9.x86_64.rpm
+-rw-rw-r--. 1 root root     103 Sep  2 15:29 demo_file
+-rwx------. 1 root root     122 Sep  2 15:48 file_creator
+-rwx------. 1 root root     168 Sep  2 16:17 file_deleter
+-rw-rw-rw-. 1 root root     423 Sep  2 19:19 my_out
+drwxrwxrwx. 3 root root      19 Sep  2 17:37 usr
